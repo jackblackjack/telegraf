@@ -27,8 +27,8 @@
   },
   "dependencies": {
     "auto-bind": "^1.1.0",
-    "debug": "^2.6.0",
-    "node-fetch": "^1.6.3",
+    "debug": "^2.6.8",
+    "node-fetch": "^1.7.2",
     "sandwich-stream": "^1.0.0"
   },
   "devDependencies": {
